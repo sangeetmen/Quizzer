@@ -186,6 +186,74 @@
   </div>
   
   <footer class="main-footer">
+  <div >
+<div class="row">
+	<div class="col">
+		<div class="info-box">
+			<span class="info-box-icon bg-info"><i class="far">A</i></span>
+
+			<div class="info-box-content">
+				<span class="info-box-text">TEAM A</span> <span
+					class="info-box-number">1,410</span>
+			</div>
+			<!-- /.info-box-content -->
+		</div>
+		<!-- /.info-box -->
+	</div>
+	<!-- /.col -->
+	<div class="col">
+		<div class="info-box">
+			<span class="info-box-icon bg-success"><i class="far">B</i></span>
+
+			<div class="info-box-content">
+				<span class="info-box-text">TEAM B</span> <span
+					class="info-box-number">410</span>
+			</div>
+			<!-- /.info-box-content -->
+		</div>
+		<!-- /.info-box -->
+	</div>
+	<!-- /.col -->
+	<div class="col">
+		<div class="info-box">
+			<span class="info-box-icon bg-warning"><i class="far">C</i></span>
+
+			<div class="info-box-content">
+				<span class="info-box-text">TEAM C</span> <span
+					class="info-box-number">13,648</span>
+			</div>
+			<!-- /.info-box-content -->
+		</div>
+		<!-- /.info-box -->
+	</div>
+	<!-- /.col -->
+	<div class="col">
+		<div class="info-box">
+			<span class="info-box-icon bg-danger"><i class="far">D</i></span>
+
+			<div class="info-box-content">
+				<span class="info-box-text">TEAM D</span> <span
+					class="info-box-number">93,139</span>
+			</div>
+			<!-- /.info-box-content -->
+		</div>
+		<!-- /.info-box -->
+	</div>
+	<!-- /.col -->
+	<div class="col">
+		<div class="info-box">
+			<span class="info-box-icon bg-danger"><i class="far">E</i></span>
+
+			<div class="info-box-content">
+				<span class="info-box-text">TEAM E</span> <span
+					class="info-box-number">93,139</span>
+			</div>
+			<!-- /.info-box-content -->
+		</div>
+		<!-- /.info-box -->
+	</div>
+</div>
+</div>
     <strong>Quizzer <a href="#">Developed By Curious Design Studio</a>.</strong>
     
     <div class="float-right d-none d-sm-inline-block">
