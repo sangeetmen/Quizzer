@@ -1,98 +1,71 @@
 <div class="card card-default color-palette-box">
-	
+	<div class="card-header">
+	    
+		<div class="text-center ">
+			<h1 class='display-4 text-fuchsia'>
+				QUESTION NO. <span id="qno">1</span>
+			</h1>
+		</div>
+	  </div>
 	<div class="card-body">
-	  
-	  
-	  <div class="text-center ">
-	  	<h1>QUESTION NO. <span id="qno">1</span></h1>
-	  </div> 
-	  <div class="text-center mb-3 mt-3" id="question">
-	  	<h3>WHO IS THE PERSIDENT OF UNITED STATES?</h3>	
-	  </div>
-	  <div class="row text-center mb-2">
-         <div class="col-lg-6">
-           <button type="button" class="btn btn-block bg-gradient-warning btn-lg">Option 1</button>
-         </div>
-         <div class="col-lg-6">
-           <button type="button" class="btn btn-block bg-gradient-warning btn-lg">Option 2</button>
-         </div>
-        
-     </div>
-      <div class="row text-center mb-2">
-		   <div class="col-lg-6">
-		     <button type="button" class="btn btn-block bg-gradient-warning btn-lg">Option 3</button>
-		   </div>
-		   <div class="col-lg-6">
-		     <button type="button" class="btn btn-block bg-gradient-warning btn-lg">Option 4</button>
-		   </div>
-	  </div>
-	</div>	 
-	
+
+
+		<div class="text-center mb-3 mt-3" id="question">
+			<h1 class='text-maroon'>WHO IS THE PERSIDENT OF UNITED STATES?</h1>
+		</div>
+<!-- 		<img class="card-img-top" src='data:image/svg+xml;charset=UTF-8,%3Csvg width%3D"286" height%3D"180" xmlns%3D"http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" viewBox%3D"0 0 286 180" preserveAspectRatio%3D"none"%3E%3Cdefs%3E%3Cstyle type%3D"text%2Fcss"%3E%23holder_1721e83e0e7 text %7B fill%3Argba(255%2C255%2C255%2C.75)%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C monospace%3Bfont-size%3A14pt %7D %3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg id%3D"holder_1721e83e0e7"%3E%3Crect width%3D"286" height%3D"180" fill%3D"%23777"%3E%3C%2Frect%3E%3Cg%3E%3Ctext x%3D"98" y%3D"96.3"%3EImage cap%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt="Card image cap"> -->
+	</div>
+	<div class="card-body">	
+		<div>
+			<div class="row text-center mb-2">
+				<div class="btn-group col-lg-6">
+					<span class="input-group-prepend">
+						<button type="button"
+							class="btn btn-block btn-outline-primary btn-lg">
+							<i class="fa">A</i>
+						</button>
+					</span>
+					<button type="button"
+						class="btn btn-block btn-outline-primary btn-lg">Option A</button>
+				</div>
+
+
+
+				<div class="btn-group col-lg-6">
+					<span class="input-group-prepend">
+						<button type="button"
+							class="btn btn-block btn-outline-primary btn-lg">
+							<i class="fa">B</i>
+						</button>
+					</span>
+					<button type="button"
+						class="btn btn-block btn-outline-primary btn-lg">Option B</button>
+				</div>
+
+			</div>
+			<div class="row text-center mb-2">
+				<div class="btn-group col-lg-6">
+					<span class="input-group-prepend">
+						<button type="button"
+							class="btn btn-block btn-outline-primary btn-lg">
+							<i class="fa">C</i>
+						</button>
+					</span>
+					<button type="button"
+						class="btn btn-block btn-outline-primary btn-lg">Option C</button>
+				</div>
+
+				<div class="btn-group col-lg-6">
+					<span class="input-group-prepend">
+						<button type="button"
+							class="btn btn-block btn-outline-primary btn-lg">
+							<i class="fa">D</i>
+						</button>
+					</span>
+					<button type="button"
+						class="btn btn-block btn-outline-primary btn-lg">Option D</button>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-
-	<div class="row">
-          <div class="col-lg-2">
-            <div class="info-box">
-              <span class="info-box-icon bg-info"><i class="far">A</i></span>
-
-              <div class="info-box-content">
-                <span class="info-box-text">TEAM A</span>
-                <span class="info-box-number">1,410</span>
-              </div>
-              <!-- /.info-box-content -->
-            </div>
-            <!-- /.info-box -->
-          </div>
-          <!-- /.col -->
-          <div class="col-lg-2">
-            <div class="info-box">
-              <span class="info-box-icon bg-success"><i class="far">B</i></span>
-
-              <div class="info-box-content">
-                <span class="info-box-text">TEAM B</span>
-                <span class="info-box-number">410</span>
-              </div>
-              <!-- /.info-box-content -->
-            </div>
-            <!-- /.info-box -->
-          </div>
-          <!-- /.col -->
-          <div class="col-lg-2">
-            <div class="info-box">
-              <span class="info-box-icon bg-warning"><i class="far">C</i></span>
-
-              <div class="info-box-content">
-                <span class="info-box-text">TEAM C</span>
-                <span class="info-box-number">13,648</span>
-              </div>
-              <!-- /.info-box-content -->
-            </div>
-            <!-- /.info-box -->
-          </div>
-          <!-- /.col -->
-          <div class="col-lg-2">
-            <div class="info-box">
-              <span class="info-box-icon bg-danger"><i class="far">D</i></span>
-
-              <div class="info-box-content">
-                <span class="info-box-text">TEAM D</span>
-                <span class="info-box-number">93,139</span>
-              </div>
-              <!-- /.info-box-content -->
-            </div>
-            <!-- /.info-box -->
-          </div>
-          <!-- /.col -->
-          <div class="col-lg-2">
-            <div class="info-box">
-              <span class="info-box-icon bg-danger"><i class="far">E</i></span>
-
-              <div class="info-box-content">
-                <span class="info-box-text">TEAM E</span>
-                <span class="info-box-number">93,139</span>
-              </div>
-              <!-- /.info-box-content -->
-            </div>
-            <!-- /.info-box -->
-          </div>
-        </div>
