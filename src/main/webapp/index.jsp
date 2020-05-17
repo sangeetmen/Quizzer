@@ -56,19 +56,22 @@
   }
   .ui-autocomplete { position: absolute; cursor: default;z-index:1034 !important;}  
   </style>
+  <link rel="stylesheet" href="css/animation.css">
+  <!-- Your custom styles (optional) -->
+  
 </head>
 <body class="hold-transition sidebar-hidden sidebar-collapse">
 <div class="wrapper">
 
 		<!-- Navbar -->
-  <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-    <!-- Left navbar links -->
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>
-      </li>
+<!--   <nav class="main-header navbar navbar-expand navbar-white navbar-light"> -->
+<!--     Left navbar links -->
+<!--     <ul class="navbar-nav"> -->
+<!--       <li class="nav-item"> -->
+<!--         <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a> -->
+<!--       </li> -->
       
-    </ul>
+<!--     </ul> -->
 
     <!-- SEARCH FORM -->
 <!--     <form class="form-inline ml-3"> -->
@@ -131,7 +134,7 @@
 <!--         </a> -->
 <!--       </li> -->
 <!--     </ul> -->
-  </nav>
+<!--   </nav> -->
   <!-- /.navbar -->
 
   <!-- Main Sidebar Container -->
@@ -242,7 +245,7 @@
 	<!-- /.col -->
 	<div class="col">
 		<div class="info-box">
-			<span class="info-box-icon bg-danger"><i class="far">E</i></span>
+			<span class="info-box-icon bg-indigo"><i class="far">E</i></span>
 
 			<div class="info-box-content">
 				<span class="info-box-text">TEAM E</span> <span
@@ -254,10 +257,10 @@
 	</div>
 </div>
 </div>
-    <strong>Quizzer <a href="#">Developed By Curious Design Studio</a>.</strong>
+    <strong><a href="#">Developed By Curious Design Studio</a>.</strong>
     
     <div class="float-right d-none d-sm-inline-block">
-      <b>Version</b> 1.0 (Beta)
+      <b>Quizzer  ver.</b> 1.0 (Beta)
     </div>
   </footer>
 
@@ -320,6 +323,9 @@
 <!-- AdminLTE App -->
 <script src="uifiles/dist/js/adminlte.js"></script>
 <script src="uifiles/plugins/bootstrap-switch/js/bootstrap-switch.min.js"></script>
+  <script  src="js/animation/popper.js"></script>
+    <!-- MDB core JavaScript -->
+  <script src="js/animation/mdb.js"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="uifiles/dist/js/demo.js"></script>
 <script src="js/globalscripts.js"></script>
