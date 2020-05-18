@@ -249,3 +249,8 @@ max-height: 33px;
 }
 
 
+.options.correct.answered{ background-color: #28a745; color: #ffffff; }
+.options.answered{ background-color: #dc3545;color: #ffffff; }
+
+
+

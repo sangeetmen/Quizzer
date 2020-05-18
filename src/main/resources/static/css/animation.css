@@ -245,3 +245,34 @@
     -webkit-animation-name: bounceInRight;
     animation-name: bounceInRight
 }
+
+
+
+
+
+.blink-bg{
+	color: #fff;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 5px;
+	animation: blinkingBackground 1s infinite;
+}
+@keyframes blinkingBackground{
+	0%		{ color: #007bff;border-color: #007bff; background-color:white;}
+	
+	50%		{ background-color: #28a745; color: #ffffff; }
+	
+	100%	{ color: #007bff;border-color: #007bff; background-color:white;}
+}
+
+
+.blink-text{
+	animation: blinkingText 1s infinite;
+}
+@keyframes blinkingText{
+	0%		{ color: #28a745; }
+	
+	50%		{ color: #f4f6f9; }
+	
+	100%	{ color: #28a745;}
+}
