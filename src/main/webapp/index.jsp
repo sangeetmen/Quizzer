@@ -195,10 +195,10 @@
 <div class="row">
 	<div class="col">
 		<div class="info-box">
-			<span class="info-box-icon bg-maroon"><i class="far">A</i></span>
+			<span class="info-box-icon bg-maroon"><i class="far teamcode">A</i></span>
 
 			<div class="info-box-content">
-				<span class="info-box-number display-4">0</span>
+				<span class="info-box-number display-4  teamscore">0</span>
 			</div>
 			<!-- /.info-box-content -->
 		</div>
@@ -207,10 +207,10 @@
 	<!-- /.col -->
 	<div class="col">
 		<div class="info-box">
-			<span class="info-box-icon bg-success"><i class="far">B</i></span>
+			<span class="info-box-icon bg-success"><i class="far teamcode">B</i></span>
 
 			<div class="info-box-content">
-				<span class="info-box-number display-4">0</span>
+				<span class="info-box-number display-4  teamscore">0</span>
 			</div>
 			<!-- /.info-box-content -->
 		</div>
@@ -219,10 +219,10 @@
 	<!-- /.col -->
 	<div class="col">
 		<div class="info-box">
-			<span class="info-box-icon bg-primary"><i class="far">C</i></span>
+			<span class="info-box-icon bg-primary"><i class="far teamcode">C</i></span>
 
 			<div class="info-box-content">
-				<span class="info-box-number display-4">0</span>
+				<span class="info-box-number display-4  teamscore">0</span>
 			</div>
 			<!-- /.info-box-content -->
 		</div>
@@ -231,10 +231,10 @@
 	<!-- /.col -->
 	<div class="col">
 		<div class="info-box">
-			<span class="info-box-icon bg-danger"><i class="far">D</i></span>
+			<span class="info-box-icon bg-danger"><i class="far teamcode">D</i></span>
 
 			<div class="info-box-content">
-				<span class="info-box-number display-4">0</span>
+				<span class="info-box-number display-4  teamscore">0</span>
 			</div>
 			<!-- /.info-box-content -->
 		</div>
@@ -243,10 +243,10 @@
 	<!-- /.col -->
 	<div class="col">
 		<div class="info-box">
-			<span class="info-box-icon bg-indigo"><i class="far">E</i></span>
+			<span class="info-box-icon bg-indigo"><i class="far teamcode">E</i></span>
 
 			<div class="info-box-content">
-				<span class="info-box-number display-4">0</span>
+				<span class="info-box-number display-4  teamscore">0</span>
 			</div>
 			<!-- /.info-box-content -->
 		</div>
